@@ -1,0 +1,10 @@
+streamlit
+pdfminer.six
+langchain
+langchain-openai
+langchain-text-splitters
+langchain-community         
+httpx
+tiktoken
+chromadb
+fpdf

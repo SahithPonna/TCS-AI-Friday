@@ -1,0 +1,79 @@
+Title: Sample SEBI Portfolio Managers Regulation Snippet - Client Asset Segregation
+Effective Date: 2020-01-01
+Jurisdiction: India (SEBI)
+Hierarchy: SEBI > Portfolio Managers > Regulation 22(3)
+
+Regulation 22(3) (Illustrative Sample Text)
+Portfolio managers shall ensure that client funds and securities are segregated from their own assets at all times and are used only for the purposes explicitly authorised under the investment management agreement.
+
+Obligation Summary:
+1. Segregate client funds and securities from proprietary assets at all times.
+2. Use client assets strictly in line with the executed investment management agreement.
+3. Maintain clear records and reconciliations of client holdings and movements.
+4. Implement internal controls and periodic reviews to detect and prevent misuse of client assets.
+
+Excerpt Reference: Sample text for demonstration purposes only; not an official SEBI publication.
+---
+Title: Sample SEBI Portfolio Managers Regulation Snippet - Disclosure to Clients
+Effective Date: 2020-01-01
+Jurisdiction: India (SEBI)
+Hierarchy: SEBI > Portfolio Managers > Disclosure Requirements
+
+Sample Provision (Illustrative Text)
+Portfolio managers shall provide each client with a disclosure document containing details of investment approach, risks, fees and charges, past performance (if any), and conflicts of interest, prior to entering into an investment management agreement.
+
+Obligation Summary:
+1. Issue a comprehensive disclosure document to clients before onboarding.
+2. Include investment strategy, key risks, fee structure, and performance history.
+3. Disclose all material conflicts of interest and how they are managed.
+4. Maintain evidence of client acknowledgement of disclosures.
+
+Excerpt Reference: Sample text for demonstration purposes only; not an official SEBI publication.
+---
+Title: Sample MiFID II Best Execution Policy Snippet
+Effective Date: 2018-01-03
+Jurisdiction: European Union (ESMA / MiFID II)
+Hierarchy: MiFID II > Investor Protection > Best Execution
+
+Sample Provision (Illustrative Text)
+Investment firms shall take all sufficient steps to obtain, when executing orders, the best possible result for their clients taking into account price, costs, speed, likelihood of execution and settlement, size, nature or any other relevant consideration.
+
+Obligation Summary:
+1. Maintain and implement a documented best execution policy covering execution factors and venues.
+2. Periodically review execution quality and update the policy where necessary.
+3. Inform clients about the best execution policy and any material changes.
+4. Monitor and evidence that executions are consistent with the policy and client instructions.
+
+Excerpt Reference: Sample text for demonstration purposes only; not an official MiFID II publication.
+---
+Title: Sample Basel III Large Exposures Framework Snippet
+Effective Date: 2019-01-01
+Jurisdiction: Global (BCBS Guidance)
+Hierarchy: Basel III > Risk Concentration > Large Exposures
+
+Sample Provision (Illustrative Text)
+Banks shall ensure that their exposures to a single counterparty or a group of connected counterparties do not exceed 25% of the bank's eligible capital base, subject to specified exemptions and look-through requirements.
+
+Obligation Summary:
+1. Define and identify groups of connected counterparties for large exposure purposes.
+2. Monitor exposures against large exposure limits on at least a daily basis.
+3. Implement controls and escalation procedures where limits are exceeded or at risk of breach.
+4. Report material large exposures to the competent authority as required.
+
+Excerpt Reference: Sample text for demonstration purposes only; not an official Basel publication.
+---
+Title: Sample SEC Regulation Best Interest (Reg BI) Snippet
+Effective Date: 2020-06-30
+Jurisdiction: United States (SEC)
+Hierarchy: SEC Rules > Regulation Best Interest
+
+Sample Provision (Illustrative Text)
+A broker-dealer, when making a recommendation to a retail customer of any securities transaction or investment strategy, shall act in the best interest of the retail customer without placing the financial or other interest of the broker-dealer ahead of the retail customer.
+
+Obligation Summary:
+1. Establish, maintain, and enforce written policies and procedures reasonably designed to achieve compliance with Reg BI.
+2. Provide Form CRS and required disclosures about services, fees, conflicts, and disciplinary history.
+3. Identify, disclose, and mitigate or eliminate material conflicts of interest associated with recommendations.
+4. Maintain records demonstrating the basis on which recommendations were in the client’s best interest.
+
+Excerpt Reference: Sample text for demonstration purposes only; not an official SEC publication.

@@ -1,0 +1,75 @@
+Title: Basel III Liquidity Coverage Ratio (LCR) Overview
+Effective Date: 2019-01-01
+Jurisdiction: Global (BCBS Guidance)
+Hierarchy: Basel III > Liquidity Standards > LCR
+
+The Liquidity Coverage Ratio ("LCR") requires banks to maintain an adequate level of unencumbered High Quality Liquid Assets ("HQLA") that can be converted into cash easily and immediately to meet their liquidity needs for a 30 calendar day liquidity stress scenario.
+
+Obligation Summary:
+1. Banks must hold HQLA >= Net Cash Outflows over the next 30 days.
+2. Reporting frequency: monthly (minimum) to local supervisory authority; more frequent reporting may be required under stressed conditions.
+3. HQLA categories include Level 1 assets (e.g., cash, central bank reserves), Level 2A, and Level 2B with applicable haircuts and caps.
+4. Net Cash Outflows = Total expected cash outflows - Min( total expected cash inflows, 75% of outflows ).
+5. Governance: The Board should regularly review liquidity risk tolerance and LCR compliance metrics.
+
+Excerpt Reference: Basel Committee on Banking Supervision, "Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools".
+---
+Title: SEC Market Regulation - Best Execution Duty
+Effective Date: 2021-06-30
+Jurisdiction: United States (SEC)
+Hierarchy: SEC Rules > Broker-Dealer Obligations > Best Execution
+
+Broker-dealers must use reasonable diligence to determine the best market for a security and buy or sell in that market so that the resulting price to the customer is as favorable as possible under prevailing market conditions.
+
+Obligation Summary:
+1. Regular review of execution quality across venues.
+2. Maintain policies documenting factors considered (price improvement, speed, likelihood of execution).
+3. Disclose material conflicts of interest affecting execution venues.
+4. Maintain surveillance for patterns of inferior execution.
+
+Excerpt Reference: SEC Guidance on Broker-Dealer Best Execution Obligations.
+---
+Title: EU Market Abuse Regulation (MAR) - Insider Information Handling
+Effective Date: 2020-01-01
+Jurisdiction: European Union
+Hierarchy: EU Financial Regulations > Market Abuse Regulation > Insider Lists
+
+Firms must establish, maintain, and update insider lists identifying persons with access to inside information. Lists must be promptly updated with date/time stamps when individuals gain or cease access.
+
+Obligation Summary:
+1. Maintain structured insider list fields: Name, National ID, Role, Access Date/Time, Reason for inclusion.
+2. Implement secure storage and restricted access controls.
+3. Provide insider list to competent authority upon request without delay.
+4. Training: Annual awareness training on handling inside information.
+
+Excerpt Reference: Regulation (EU) No 596/2014 (Market Abuse Regulation).
+---
+Title: Basel III Capital Conservation Buffer
+Effective Date: 2019-01-01
+Jurisdiction: Global (BCBS Guidance)
+Hierarchy: Basel III > Capital Requirements > Conservation Buffer
+
+Banks must hold a capital conservation buffer above the regulatory minimum capital ratios. When a bank's Common Equity Tier 1 (CET1) ratio falls within defined bands below the buffer requirement, automatic constraints on capital distributions (dividends, share buybacks, discretionary bonuses) apply.
+
+Obligation Summary:
+1. Maintain CET1 + Conservation Buffer >= Required Threshold (typically 2.5% buffer above minimum CET1 ratio).
+2. Track distribution restriction bands and escalate breaches to senior management.
+3. Integrate buffer monitoring into ICAAP and board risk dashboard.
+4. Document remediation plans when operating within distribution constraint bands.
+
+Excerpt Reference: Basel III: A global regulatory framework for more resilient banks and banking systems.
+---
+Title: SEC Regulation NMS - Rule 611 (Order Protection Rule)
+Effective Date: 2021-09-01
+Jurisdiction: United States (SEC)
+Hierarchy: SEC Rules > Regulation NMS > Order Protection
+
+Rule 611 requires trading centers to establish, maintain, and enforce written policies and procedures reasonably designed to prevent trade-throughs (executing trades at prices inferior to protected quotations).
+
+Obligation Summary:
+1. Maintain policies for intermarket sweep orders and exception handling.
+2. Monitor and quantify trade-through rates; investigate anomalies.
+3. Retain audit logs evidencing quote protection logic triggers.
+4. Annual review and certification of Rule 611 procedures.
+
+Excerpt Reference: SEC Regulation NMS Release.

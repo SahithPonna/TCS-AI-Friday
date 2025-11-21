@@ -1,0 +1,15 @@
+Title: Sample Dodd-Frank Volcker Rule Proprietary Trading Snippet
+Effective Date: 2015-07-21
+Jurisdiction: United States (Federal Reserve, OCC, FDIC, SEC, CFTC)
+Hierarchy: Dodd-Frank Act > Volcker Rule > Proprietary Trading
+
+Sample Provision (Illustrative Text)
+Banking entities shall not engage in proprietary trading in financial instruments for their own trading account, subject to permitted activities and exemptions such as market‑making, underwriting, risk‑mitigating hedging, and trading in U.S. government obligations.
+
+Obligation Summary:
+1. Define and document the scope of proprietary trading and permitted activities.
+2. Implement a Volcker compliance program, including policies, limits, and monitoring.
+3. Identify and escalate potential prohibited proprietary trading activities and remediate breaches.
+4. Maintain metrics, records, and independent testing to evidence ongoing compliance.
+
+Excerpt Reference: Sample text for demonstration purposes only; not an official Volcker Rule publication.

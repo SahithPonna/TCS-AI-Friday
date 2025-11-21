@@ -1,0 +1,50 @@
+Title: Common SEC Filings Overview
+Jurisdiction: United States (SEC)
+Hierarchy: SEC > Public Company Disclosure > Filings
+
+Description:
+This file lists the most common SEC filing types used by public companies and other market participants.
+It is a simplified overview for training and demonstration purposes, not an exhaustive or official list.
+
+Core Periodic and Registration Filings:
+- Form S-1: Registration statement for newly issued securities (IPO or other offerings).
+- Form S-3: Short-form registration statement for certain seasoned issuers.
+- Form S-4: Registration statement for securities issued in business combinations (mergers, exchanges).
+- Form 10-K: Annual report containing audited financial statements and detailed business information.
+- Form 10-Q: Quarterly report with unaudited financial statements and MD&A.
+- Form 8-K: Current report used to disclose material events between periodic filings.
+- Form 20-F: Annual report for foreign private issuers.
+- Form 40-F: Annual report for certain Canadian issuers under MJDS.
+- Form F-1: Registration statement for foreign private issuers.
+
+Ownership and Insider Reporting:
+- Form 3: Initial statement of beneficial ownership of securities by insiders.
+- Form 4: Statement of changes in beneficial ownership (insider trading/activity report).
+- Form 5: Annual statement of beneficial ownership for certain transactions not reported on Form 4.
+- Schedule 13D: Beneficial ownership report when acquiring >5% of a class of equity with control intent.
+- Schedule 13G: Short-form beneficial ownership report (>5%) without intent to influence control.
+
+Investment Company and Adviser Filings:
+- Form N-1A: Registration for open-end mutual funds.
+- Form N-2: Registration for closed-end funds.
+- Form N-CEN: Annual census reporting for registered funds.
+- Form N-PORT: Monthly portfolio holdings reporting for registered funds.
+- Form ADV: Investment adviser registration and disclosure document.
+
+Market Structure and Broker-Dealer Related Filings:
+- Form ATS: Registration / notice for Alternative Trading Systems.
+- Form ATS-N: Public filing for NMS stock ATSs.
+- Form BD: Broker-dealer registration form.
+- Form CAT Reports: Consolidated Audit Trail reporting by market participants (not a single form, but a reporting regime).
+- Regulation NMS related submissions: Various filings to support market structure rules (e.g., rule changes, policies).
+
+Other Selected Filings:
+- Schedule TO: Tender offer statement.
+- Schedule 14A: Proxy statement for shareholder meetings.
+- Schedule 14D-9: Solicitation / recommendation statement in response to a tender offer.
+- Form D: Notice of exempt offerings of securities (Regulation D private placements).
+- Form PF: Private fund reporting by certain advisers (under SEC / CFTC joint rulemaking).
+
+Note:
+- This list is not exhaustive and is provided for demonstration and training only.
+- For official definitions and full filing types, refer to the SEC’s EDGAR Filer Manual and www.sec.gov.

@@ -1,0 +1,31 @@
+Title: Sample FATF AML/CFT Framework Snippet
+Effective Date: 2019-06-01
+Jurisdiction: Global (FATF Recommendations)
+Hierarchy: AML/CFT > Customer Due Diligence > Ongoing Monitoring
+
+Sample Provision (Illustrative Text)
+Financial institutions shall conduct ongoing due diligence on the business relationship and scrutinise transactions undertaken throughout the course of that relationship to ensure that transactions are consistent with the institution’s knowledge of the customer, their business and risk profile, including, where necessary, the source of funds.
+
+Obligation Summary:
+1. Implement risk-based ongoing monitoring of customer transactions and relationships.
+2. Use automated and manual tools to detect unusual or suspicious patterns.
+3. Escalate and investigate alerts, documenting rationale and outcomes.
+4. File suspicious transaction reports (STRs) with the competent authority where suspicion is formed.
+
+Excerpt Reference: Sample text for demonstration purposes only; not an official FATF publication.
+---
+Title: Sample EMIR Trade Reporting Snippet
+Effective Date: 2014-02-12
+Jurisdiction: European Union (ESMA / EMIR)
+Hierarchy: EMIR > Trade Reporting > OTC Derivatives
+
+Sample Provision (Illustrative Text)
+Counterparties and CCPs shall ensure that the details of any derivative contract they have concluded, modified or terminated are reported to a registered trade repository no later than the working day following the conclusion, modification or termination of the contract.
+
+Obligation Summary:
+1. Report all in-scope derivative contracts, including lifecycle events, to an approved trade repository.
+2. Ensure T+1 reporting timeliness and data completeness and accuracy.
+3. Reconcile reported data against internal books and records.
+4. Maintain governance and controls over trade reporting, including periodic testing.
+
+Excerpt Reference: Sample text for demonstration purposes only; not an official EMIR publication.
